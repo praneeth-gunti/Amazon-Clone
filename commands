@@ -1,0 +1,7 @@
+npx create-react-app amazon-clone
+npm install react-router-dom
+npm i react-currency-format
+
+Stripe
+npm i @stripe/stripe-js
+npm i @stripe/react-stripe-js
